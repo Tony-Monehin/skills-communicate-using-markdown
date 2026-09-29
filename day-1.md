@@ -5,9 +5,11 @@ Here are my planned TT lectures
 ## Codespaces
 
 what did we do last week?
--Opened a repo
--Opened a codespace
--Wrote a Haiku
+- Opened a repo
+- Opened a codespace
+- Wrote a Haiku
+    - Changed a word
+    - Changed another word
 
 ## Markdown
 
